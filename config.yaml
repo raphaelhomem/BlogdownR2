@@ -1,6 +1,6 @@
-baseURL: https://example.com
+baseURL: https://blogdownr2.netlify.app/
 title: Hello Friend NG
-languageCode: en-us
+languageCode: pt-br
 theme: hugo-theme-hello-friend-ng
 PygmentsCodeFences: yes
 PygmentsStyle: monokai
